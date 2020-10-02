@@ -1,7 +1,7 @@
 English word App
 ===================================
 
-This app displays lists of vocabulary words for the user to learn the english language.
+This app displays lists of vocabulary words for the user to learn the english language with narattor support.
 
 Pre-requisites
 --------------
